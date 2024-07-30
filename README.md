@@ -20,7 +20,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/expense-tracker.git
+   git clone https://github.com/Nanda-bhutharasi/expense-tracker.git
    
 2. Navigate to the project directory:
    ```bash
@@ -31,5 +31,10 @@
    npm install
 
 4. Start the development server:
-  ```bash
-  npm start
+   ```bash
+   npm start
+   
+## Usage
+1. Add New Transaction: Click on "Add New Transaction" to enter details for income or expense.
+2. View Summary: Check the real-time balance and transaction summaries.
+3. Analyze Data: Use the charts to visualize your financial data.
